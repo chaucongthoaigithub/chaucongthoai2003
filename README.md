@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @chaucongthoai
-- 👀 I’m interested in web developer
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on everyone
-- 📫 How to reach me ib my email 
